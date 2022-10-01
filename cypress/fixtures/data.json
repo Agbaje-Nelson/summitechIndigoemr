@@ -1,0 +1,28 @@
+{
+  "validData":
+  {
+    "email": "test-qa@inboxkitten.com",
+    "password": "qaV9ult!x"
+  },
+
+"inValidData" :
+  {
+    "email": "qa@inboxkitten.com",
+    "password": "8y!x"
+  },
+  "incorrectData" :
+  {
+    "email": "qa@inb",
+    "password": "903u039u503u539305935i39u503u5309u30u03u3u592u0u20u0u520u20u5029u2085u2u528u"
+  },
+  "appointment": {
+    "name" : "Ekene zolu",
+    "MRN" : "ALT00108",
+    "specialty":"2",
+    "reason":"2",
+    "day":"10",
+    "month":"October",
+    "year":"2022"
+
+  }
+}
